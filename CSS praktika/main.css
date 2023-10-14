@@ -1,0 +1,540 @@
+.wrap{
+    width: 1300px;
+    position: relative;
+}
+.navbar-menu{
+    width: 1145px;
+    height: 165px;
+    background-color: white;
+}
+.navbar-menu-item1{
+    width: 658px;
+    height: 83px;
+    text-align: center;
+}
+.mainpicture{
+    position: relative;
+    top: 60px;
+    left: 130px;
+}
+.navbar-menu-item2{
+    position: relative;
+    left: 400px;
+    top: -40px;
+    float: left;
+}
+.zzz{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    font-weight: normal;
+    left: 80px;
+}
+.zzz:nth-child(2){
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    font-weight: normal;
+    left: 160px;
+}
+.zzz:nth-child(3){
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    font-weight: normal;
+    left: 240px;
+}
+.zzz:nth-child(4){
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    position: relative;
+    font-weight: normal;
+    left: 310px;
+}
+.zzz:nth-child(5){
+    position: relative;
+    left: 410px;
+    bottom: 10px;
+    font-size: 14px;
+}
+.zzzx{
+    color: red;
+    text-decoration: none;
+    position: relative;
+    left: 255px;
+    top: 10px;
+    font-size: 13px;
+}
+.zzx{
+    width: 850px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    font-size: 17px;
+    padding-left: 35px;
+    position: relative;
+    top: 30px;
+    left: 80px;
+}
+
+.mainpicture1{
+    position: relative;
+    right: 305px;
+    top: -25px;
+}
+.zzzx1{
+    position: relative;
+    right: 55px;
+    text-decoration: none;
+    color: black;
+    bottom: 45px;
+    font-size: 13px;
+}
+.zzzx2{
+    position: relative;
+    right: 100px;
+    text-decoration: none;
+    color: red;
+    bottom: 25px;
+    font-size: 13px;
+
+}
+.mainpicture2{
+    position: relative;
+    bottom: 25px;
+    right: 60px;
+}
+.navbar-menu-item3{
+    width: 120px;
+    position: relative;
+    text-align: center;
+    padding-left: 100px;
+    left: 1300px;
+    bottom: 80px;
+}
+.mainpicture3{
+    position: relative;
+    bottom: 30px;
+    right: 10px;
+}
+.buttonx{
+    width: 230px;
+    height: 43px;
+    position: relative;
+    border-radius: 10px;
+    border: 1px solid #e70202;
+    background-color: #e70202;
+    color: white;
+    font-size: 17px;
+}
+.zxzxx{
+    position: relative;
+    bottom: 112px;
+    left: 20px;
+}
+.buttonx1{
+    width: 74px;
+    height: 40px;
+    position: relative;
+    left: 100px;
+    bottom: 155px;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    font-size: 17px;
+}
+
+.navbar-menu-item4{
+    text-align: center;
+    width: 1200px;
+    position: relative;
+    left: 365px;
+    bottom: 20px;
+    font-size: 23px;
+    float: left;
+}
+.h2h{
+    position: relative;
+    right: 50px;
+}
+.catolok{
+    position: relative;
+    right: 230px;
+    top: 40px;
+}
+.catakog{
+    background-color: #e70202;
+    height: 75px;
+}
+table{
+    position: relative;
+    width: 330px;
+    box-shadow: 0 0 5px rgba(80,80,80,0.1);
+    height: 950px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.kxkx1{
+    position: absolute;
+    left: 20px;
+    top: 30px;
+}
+.kxkxkx1{
+    padding-right: 140px;
+    color: whitesmoke;
+    font-size: 25px;
+    padding-top: 5px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.kxkx2{
+    position: relative;
+    right: 10px;
+    top: 25px;
+}
+.kxkxkx2{
+    position: relative;
+    right: 80px;
+    font-size: 25px;
+    top: -25px;
+    color: grey;
+}
+.kxkx3{
+    position: relative;
+    right: 10px;
+    top: 25px;
+}
+.kxkxkx3{
+    position: relative;
+    font-size: 25px;
+    bottom: 20px;
+    right: 80px;
+    color: grey;
+}
+.kxkx4{
+    position: relative;
+    right: 15px;
+    top: 30px;
+}
+.kxkxkx4{
+    position: relative;
+    bottom: 15px;
+    right: 25px;
+    color: grey;
+}
+.kxkx5{
+    position: relative;
+    right: 15px;
+    top: 30px;
+}
+.kxkxkx5{
+    position: relative;
+    bottom: 10px;
+    right: 70px;
+    color: grey;
+}
+.kxkx6{
+    position: relative;
+    right:15px;
+    top: 30px;
+}
+.kxkxkx6{
+    position: relative;
+    bottom: 15px;
+    right: 85px;
+    color: grey;
+}
+.kxkx7{
+    position: relative;
+    right:15px;
+    top: 35px;
+}
+.kxkxkx7{
+    position: relative;
+    right: 45px;
+    bottom: 15px;
+    color: grey;
+}
+.kxkx8{
+    position: relative;
+    right: 15px;
+    top: 30px;
+}
+.kxkxkx8{
+    position: relative;
+    right: 80px;
+    bottom: 10px;
+    color: grey;
+}
+.kxkx9{
+    position: relative;
+    right: 15px;
+    top: 30px;
+}
+.kxkxkx9{
+    position: relative;
+    right: 20px;
+    color: grey;
+}
+
+.kxkxkx10{
+    position: relative;
+    top: 10px;
+    right: 75px;
+    color: white;
+}
+.navbar-menu-item5{
+    width: 900px;
+    background-color: red;
+    height: 500px;
+}
+.Lavashxxx{
+    width: 900px;
+    height: 200px;
+    background-color: black;
+
+}
+.lavash1232{
+    width: 1130px;
+    height: 50px;
+    display: inline-block;
+    position: relative;
+    bottom: 785px;
+    left: 485px;
+}
+.navbar-menu1{
+    display: inline-block;
+}
+.lavaw{
+    font-size: 40px;
+    position: relative;
+    bottom: 160px;
+}
+.lavawww1{
+    position: relative;
+    font-size: 20px;
+    left: 20px;
+}
+.cardlar{
+    width: 1000px;
+    position: relative;
+    left: 500px;
+    bottom: 900px;
+}
+.lavaww{
+    position: relative;
+    font-size: 20px;
+    left: 20px;
+}
+.cardlar1{
+    width: 1000px;
+    position: relative;
+    left: 500px;
+    bottom: 870px;
+}
+.card{
+    display: inline-block;
+    width: 330px;
+    height: 400px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80,80,80,0.1);
+    border-radius: 20px;
+}
+.card1{
+    display: inline-block;
+    width: 320px;
+    height: 400px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(80,80,80,0.1);
+    border-radius: 20px;
+    position: relative;
+    top: 50px;
+}
+.card-body{
+    width: 340px;
+    height: 250px;
+    border-radius: 20px;
+}
+.orginallavash{
+    width: 305px;
+    height: 225px;
+    position: relative;
+    top: 10px;
+    left: 7px;
+}
+.dobavit{
+    width: 250px;
+    height:50px;
+    position: relative;
+    background-color: white;
+    border: 1px solid whitesmoke;
+    box-shadow: 0 0 10px rgba(80,80,80,0.5);
+    font-size: 23px;
+    border-radius: 10px;
+    right: 30px;
+    bottom: 25px;
+}
+.sakkizming{
+    position: relative;
+    left: 20px;
+    color: #e70202;
+    float: left;
+    bottom: 30px;
+}
+.som{
+    position: relative;
+    left: 30px;
+    bottom: 10px;
+}
+.card:nth-child(2){
+    position: relative;
+    left: 30px;
+}
+.card:nth-child(3){
+    position: relative;
+    left: 60px;
+}
+.card1:nth-child(2){
+    position: relative;
+    left: 30px;
+}
+.card1:nth-child(3){
+    position: relative;
+    left: 60px;
+}
+.hr{
+    width: 1450px;
+    position: relative;
+    top: 100px;
+    right: 365px;
+    border: 1px solid #e9e6e6;
+}
+.oq-tepaaaa{
+    position: relative;
+    top: 140px;
+    right: 280px;
+    width: 150px;
+    height: 85px;
+    display: inline-block;
+}
+.main{
+    width: 1200px;
+    font-size: 20px;
+
+}
+.class1{
+    position: relative;
+    color: grey;
+    top: 90px;
+    right: 20px;
+}
+.class2{
+    position: relative;
+    color: grey;
+    top: 90px;
+    left: 70px;
+}
+.class3{
+    position: relative;
+    color: grey;
+    top: 140px;
+    right: 135px;
+}
+.class4{
+    position: relative;
+    color: grey;
+    top: 140px;
+    right: 70px;
+}
+.main{
+    float: left;
+    position: relative;
+    bottom: 40px;
+}
+.main a{
+    text-decoration: none;
+}
+.nomer{
+    color: grey;
+    position: relative;
+    left: 500px;
+    font-size: 20px;
+}
+.hr1{
+    width: 1450px;
+    position: relative;
+    top: 180px;
+    right: 365px;
+    border: 1px solid #e9e6e6;
+}
+.alou{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 645px;
+    top: 20px;
+}
+.alou1{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    left: 647px;
+    bottom: 15px;
+}
+.xxxx{
+    color: grey;
+    font-size: 17px;
+    position: relative;
+    bottom: 25px;
+    margin-left: 670px;
+}
+.xxxx2{
+    color: grey;
+    font-size: 17px;
+    position: relative;
+    bottom: 55px;
+    margin-left: 675px;
+}
+.telegram{
+    width: 24px;
+    height: 24px;
+    margin-left: 900px;
+    position: relative;
+    bottom: 140px;
+}
+.telegrammm{
+    color: grey;
+    margin-left: 930px;
+    position: relative;
+    bottom: 180px;
+}
+.insta{
+    width: 24px;
+    height: 24px;
+    margin-left: 900px;
+    position: relative;
+    bottom: 175px;
+}
+.instaa{
+    color: grey;
+    margin-left: 933px;
+    position: relative;
+    bottom: 215px;
+}
+.oq-tepa-lavash{
+    color: grey;
+    position: relative;
+    right: 340px;
+    bottom: 100px;
+}
+.Fitnech{
+    color: grey;
+    margin-left: 830px;
+    position: relative;
+    bottom: 130px;
+}
